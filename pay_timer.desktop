@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Pay Timer
+Comment=Track shift time and earnings
+Exec=/usr/bin/python3 /path/to/pay_timer/pay_timer.py
+Icon=/path/to/pay_timer/icon.png
+Terminal=false
+Categories=Utility;
+StartupWMClass=pay_timer
